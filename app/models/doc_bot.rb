@@ -1,0 +1,2 @@
+class DocBot < ApplicationRecord
+end
